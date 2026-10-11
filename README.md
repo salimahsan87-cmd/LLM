@@ -63,10 +63,10 @@ The current implementation requests these keys through Python's `getpass()` func
 ### 4. Run the bot
 
 ```bash
-python main.py
+python Bot_Telegram.py
 ```
 
-Replace `main.py` with the name of your Python entry-point file.
+Replace `Bot_Telegram.py` with the name of your Python entry-point file.
 
 ## Available Commands
 
